@@ -23,8 +23,9 @@ The second requirement is to run linear regression on each relationship. This ti
 - Southern Hemisphere - Wind Speed (mph) vs. Latitude
 
 **VacationPy**
-- Create a heat map that displays the humidity for every city from Part I
-Narrow down the DataFrame to find your ideal weather condition. For example:
+
+Create a heat map that displays the humidity for every city from Part I. Narrow down the DataFrame to find your ideal weather condition. For example:
+
 - A max temperature lower than 80 degrees but higher than 70
 - Wind speed less than 10 mph
 - Zero cloudiness
